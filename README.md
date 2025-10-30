@@ -1,1 +1,3 @@
 # testrepo
+
+This is part of a practice exercise.
